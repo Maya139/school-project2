@@ -1,0 +1,30 @@
+img{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.online_exams_li{
+    margin-top: 13px;
+}
+.online_exams_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.online_exams_li img{
+    border-radius: 25px;
+}
+.online_exams_li p{
+    margin-top: 10px;
+}
